@@ -35,7 +35,7 @@ Prepare AI-900 with YC
 ## Table of Contents
 - [AI-900-Azure-AI-Fundamentals](#ai-900-azure-ai-fundamentals)
 - [Microsoft Azure Courses](#microsoft-azure-courses)
-  - [Azure AI-ML Algorithm CheeatSheet](#azure-ai-ml-algorithm-cheeatsheet)
+  - [Azure AI-ML Algorithm CheatSheet](#azure-ai-ml-algorithm-cheeatsheet)
 - [Microsoft Certified: AI-900-Azure AI Fundamentals Docs (Microsoft Learn)](#microsoft-certified-ai-900-azure-ai-fundamentals-docs-microsoft-learn)
   - [Table of Contents](#table-of-contents)
 - [Resources](#resources)
